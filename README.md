@@ -176,4 +176,3 @@ No navegador, abra o notebook `.ipynb` do projeto e execute as células em ordem
 
 ---
 
-Projeto desenvolvido como parte da formação em Análise de Dados da TripleTen.
