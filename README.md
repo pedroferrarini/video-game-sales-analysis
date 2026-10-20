@@ -1,5 +1,3 @@
-# video-game-sales-analysis
-
 # Análise de Mercado de Videogames 🎮
 
 ## Sobre o projeto
@@ -128,6 +126,44 @@ Também foi observada uma associação mais forte entre as avaliações da crít
 
 O projeto demonstra a aplicação de técnicas de análise exploratória, limpeza de dados, visualização, correlação e testes estatísticos para extrair informações relevantes a partir de dados históricos.
 
+## Como executar o projeto
+
+### Pré-requisitos
+
+- Python 3 instalado.
+- Jupyter Notebook.
+- Arquivo de dados `games.csv`.
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/pedroferrarini/video-game-sales-analysis.git
+```
+
+### 2. Acesse a pasta do projeto
+
+```bash
+cd video-game-sales-analysus
+```
+
+### 3. Instale as bibliotecas necessárias
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy jupyter
+```
+
+### 4. Inicie o Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Execute a análise
+
+No navegador, abra o notebook `.ipynb` do projeto e execute as células em ordem, começando pela primeira.
+
+**Observação:** o arquivo `games.csv` deve estar disponível no caminho esperado pelo notebook. Caso os dados não estejam no local correto, ajuste o caminho utilizado na leitura do arquivo.
+
 ## Competências desenvolvidas
 
 - Análise exploratória de dados (EDA).
@@ -139,3 +175,5 @@ O projeto demonstra a aplicação de técnicas de análise exploratória, limpez
 - Interpretação de resultados para apoio à tomada de decisão.
 
 ---
+
+Projeto desenvolvido como parte da formação em Análise de Dados da TripleTen.
